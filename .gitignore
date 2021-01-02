@@ -42,5 +42,5 @@ cover/
 .env
 
 # IDE Settings
-.idea
-.vscode
+.idea/
+.vscode/
